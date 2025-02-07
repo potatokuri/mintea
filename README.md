@@ -1,1 +1,1 @@
-A small wiki promoting Asian teas.
+A small website promoting Asian teas.
